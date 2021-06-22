@@ -200,16 +200,16 @@ B 的人脸图像：test.jpg
   PS C:\test\faceswap> python .\main.py
   ```
 * 运行结果
-  * 图形界面：
+  * 图形界面：  
   ![image.png](https://pic.rmb.bdstatic.com/bjh/a8923b1843868789682aeb6e43d5b9dc.png)
   * 选择测试照片和保存路径，开始替换
   ![image.png](https://pic.rmb.bdstatic.com/bjh/88fff82a81778eb063fffe590db80301.png)
-  * 替换完成
+  * 替换完成    
   ![image.png](https://pic.rmb.bdstatic.com/bjh/0dfc8bc3b70820152ac84c57ae68b98c.png)
-  * 查看保存路径下的文件    
-  A1 与 B 合成：ouput.jpg
+  * 查看保存路径下的文件      
+  A1 与 B 合成：ouput.jpg   
   ![image.png](https://pic.rmb.bdstatic.com/bjh/440d67e8f96453d1c77e2778fa5e25b4.png)
-  A2 与 B　合成：avi
+  A2 与 B　合成：avi    
   ![image.png](https://pic.rmb.bdstatic.com/bjh/712d95865ffb128fb8ad7325aa44392c.png)
   
   
